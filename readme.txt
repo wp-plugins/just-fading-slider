@@ -43,6 +43,11 @@ When you upload photos, save changes, and copy and paste <code>[jfslider]</code>
 
 To add slider to your template use this code <code>echo do_shortcode("[jfslider]");</code>
 
+= On the place where slider should be only code is shown. =
+
+In posts and pages be shure to paste the <code>[jfslider]</code> in the TEXT section of the Editor.
+In templates don't forget to open and close <code> &#60;?php ?></code>.
+
 == Screenshots ==
 
 1. Plugin options page.
