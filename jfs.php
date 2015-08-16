@@ -56,8 +56,8 @@ function jfs_settings_page() {
 		<div class="wrap3jsf"> <h3>If you want just to slide some photos, this is the perfect plugin for you...  It can't get more simple than this... Just upload photos, save changes, find a convenient place on your page, post or theme, paste shortcode and let them slide. Or in this case - fade... </h3> 
 			<h3>The slider is responsive, but all photos should be the same size (width and height). If they are not, they will have the same size and aspect ratio as photo No. 1. </h3>
 			<h3>You can add up to 10 photos, but you don't have to add them all.  </h3>
-			<h3>When you upload photos, copy and paste <code>[jfslider]</code> somewhere in your post or page... </h3> 
-			<h3> To add slider to your template use this code <code>echo do_shortcode("[jfslider]");</code></h3>
+			<h3>When you upload photos, copy and paste <code>[jfslider]</code> in TEXT section of editor... </h3>
+			<h3> To add slider to your template use this code <code>echo do_shortcode("[jfslider]");</code> (Don't forget PHP tags)</h3>
 			<h3>This plugin is my wordpress adaptation of <a target="_blank" href="http://www.jssor.com/demos/simple-fade-slideshow.html"> Jssor - Simple Fade Slideshow.</a></h3>
 			<h3>I hope that you will find it useful... <p align="right"><a target="_blank" href="http://www.zoranmaric.com"> Zoran Maric</a></p></h3></div>
 		 
